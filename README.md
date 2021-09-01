@@ -38,7 +38,7 @@
 
 ![screenshot](https://github.com/cgarrido-a/404-not-found-DevChallenges/blob/main/images/Captura%20de%20pantalla%20de%202021-08-31%2023-20-55.png)
 
-You can find the webpage <a href= "https://boring-darwin-26b9b3.netlify.app">Here</a>
+You can find the webpage <a href= "https://boring-darwin-26b9b3.netlify.app">Here</a> <br>
 You can find the repository <a href= "https://github.com/cgarrido-a/404-not-found-DevChallenges">Here</a>
 
 This project was perfect to practice CSS and create a responsive web page
@@ -46,8 +46,8 @@ This project was perfect to practice CSS and create a responsive web page
 
 ### Built With
 
-HTML5
-CSS
+HTML5 <br>
+CSS <br>
 ***This project would be much easier builted with bootstrap or any other framework, but i decided
 to use only CSS for practice***
 
